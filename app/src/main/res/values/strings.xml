@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Search_MySQL</string>
+    <string name="subscribers">Subscribers</string>
+    <string name="searchable">Search</string>
+    <string name="close">Close</string>
+    <string name="no_internet_connection">No internet connection</string>
+    <string name="Waite">Waite</string>
+</resources>
